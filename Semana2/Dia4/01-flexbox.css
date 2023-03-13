@@ -1,0 +1,29 @@
+.padre {
+  display: flex;
+  margin: 5px;
+}
+
+div {
+  margin: 5px;
+}
+
+.main__nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.padre__box {
+  height: 60vh;
+  border: 2px solid orange;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  height: 250px;
+  width: 250px;
+  background-color: red;
+}

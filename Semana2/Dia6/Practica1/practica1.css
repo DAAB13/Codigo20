@@ -1,0 +1,63 @@
+*{
+  font-family: sans-serif;
+  padding: 5px;
+}
+
+h1{
+  text-align: center;
+}
+
+.azul{
+  color: blue;
+}
+
+.morado{
+  color: blueviolet;
+}
+
+.amarillo{
+  color: yellowgreen;
+}
+
+.serv1{
+  color: red;
+}
+
+.serv2{
+  color: blue;
+}
+
+.serv3{
+  color: #bab826;
+}
+
+.serv4{
+  color: aqua;
+}
+
+.port1{
+  color: #bab826;
+}
+
+.port2{
+  color: #711414;
+}
+
+.port3{
+  color: #19198d;
+}
+
+.port4{
+  color: #166916;
+}
+
+li{
+  padding: 5px;
+  font-size: 18px;
+}
+
+.box{
+  justify-content: space-evenly;
+  display: flex;
+  flex-wrap: wrap;
+}
